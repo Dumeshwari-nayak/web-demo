@@ -1,0 +1,31 @@
+h1{
+    color:rgb(255,00,00);
+}
+h2{
+    color: red;
+}
+p{
+    color:rgb(31, 5, 146)
+}
+body{
+    background-color: darkgray;
+}
+table{
+    width: 80%;
+    margin: 40px auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+thead{
+    background-color: #007BFF;
+    color: rgb(218, 197, 8);
+}
+th,td{
+    padding: 12px 20px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+tr{
+    background-color: #9437d1;
+}
